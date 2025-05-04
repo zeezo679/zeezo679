@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeezo679&label=Profile%20views&color=0e75b6&style=flat" alt="zeezo679" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeezo679" alt="zeezo679" /></a> </p>
 
 - 🔭 I’m currently working on [Railway-Tracking System](https://github.com/zeezo679/Railway-Tracking)
 
