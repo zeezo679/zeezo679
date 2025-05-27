@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeezo679&label=Profile%20views&color=0e75b6&style=flat" alt="zeezo679" /> </p>
 
 
-
 - 🌱 I’m currently learning **DOTNET Framework**
 
 - 👯 I’m looking to collaborate on **Backend Projects and Systems**
@@ -39,5 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeezo679&show_icons=true&locale=en" alt="zeezo679" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeezo679&" alt="zeezo679" /></p>
-//- 🔭 I’m currently working on [Railway-Tracking System](https://github.com/zeezo679/Railway-Tracking)
 
