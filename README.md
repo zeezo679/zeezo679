@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeezo679&label=Profile%20views&color=0e75b6&style=flat" alt="zeezo679" /> </p>
 
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 **Backend Engineer | ASP.NET Core**
 
 - 👯 I’m looking to collaborate on **Backend Projects and Systems**
 
