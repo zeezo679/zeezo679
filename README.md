@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/zeezo679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeezo679" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeyad-abdallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyad-abdallah/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/zeyad-abdallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyad-abdallah/" height="30" width="40" /></a>
 <a href="https://youtube.com/https://www.youtube.com/@zeezoscode6954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@zeezoscode6954" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/ziadabdalla105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ziadabdalla105/" height="30" width="40" /></a>
 </p>
