@@ -1,10 +1,8 @@
 # Zeyad Abdalla Mohamed
 
-### Junior Backend Engineer | ASP.Net Core
+### Big Data Engineer @ SIC
 
-- 🔭 I'm currently working on **Invoice Builder**
-
-- 🌱 I'm currently learning **Clean Architecture**
+- 🌱 I'm currently learning about **Data Governance**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
