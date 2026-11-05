@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Zeyad 👋</h1>
 
 <p align="center">
-  Big Data Engineer | PySpark, Kafka, SQL, Data Modelling | Big Data Engineer Intern @ SIC | Backend .NET Background
+  Big Data Engineer | PySpark, Kafka, SQL, Data Modelling | Ex. Big Data Engineer Intern @ SIC | Backend .NET Background
 </p>
 
 <p align="center">
